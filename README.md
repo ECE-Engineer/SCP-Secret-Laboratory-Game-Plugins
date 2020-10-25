@@ -1,7 +1,7 @@
 # SCP-Secret-Laboratory-Game-Plugins
 This repository will be a collection of plugins I've written for the SCP SL community.
 
-##### ALL PLUGINS MARKED **SCP-X** ARE A STATUS EFFECT OF THE ACTUAL SCP
+ALL PLUGINS MARKED **SCP-X** ARE A STATUS EFFECT OF THE ACTUAL SCP
 
 | **Plugin Name**        | **Current Release Version**           | **Percentage Complete**  |
 | ------------- |:-------------:| -----:|
