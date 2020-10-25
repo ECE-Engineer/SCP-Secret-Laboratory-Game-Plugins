@@ -10,40 +10,40 @@ ALL PLUGINS MARKED **SCP-X** ARE A STATUS EFFECT OF THE ACTUAL SCP
 | SCP-2966-X | 1.0.0      |    5% |
 | SCP-458 | 1.0.0      |    5% |
 
-## INDIVIDUAL PLUGIN ENTRIES
+# INDIVIDUAL PLUGIN ENTRIES
 ### SCP-999-X
-##### Name
-##### Description
+##### Name:
+##### Description:
 ##### Version Releases:
 ##### Stable: 
 ##### Beta: 
-##### Developer Notes
+##### Developer Notes:
 
 ### Max-Stamina-Respawn
-##### Name
-##### Description
+##### Name:
+##### Description:
 ##### Version Releases:
 ##### Stable: 
 ##### Beta: 
-##### Developer Notes
+##### Developer Notes:
 
 ### SCP-2966-X
-##### Name
-##### Description
+##### Name:
+##### Description:
 ##### Version Releases:
 ##### Stable: 
 ##### Beta: 
-##### Developer Notes
+##### Developer Notes:
 
 ### SCP-458
-##### Name
-##### Description
+##### Name:
+##### Description:
 ##### Version Releases:
 ##### Stable: 
 ##### Beta: 
-##### Developer Notes
+##### Developer Notes:
 
-#### Concluding Notes
+### Concluding Notes
 As with many plugins that are mixed together from different developers and from which are all being used concurrently.
 Please be aware of the likelihood that special edge cases may occur causing instability in your server instance.
 
