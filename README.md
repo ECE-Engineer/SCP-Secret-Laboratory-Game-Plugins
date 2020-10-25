@@ -30,4 +30,5 @@ As with many plugins that are mixed together from different developers and from 
 Please be aware of the likelihood that special edge cases may occur causing instability in your server instance.
 
 Author: Kyle Zeller
+
 Game Tag: CK
