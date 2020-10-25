@@ -11,19 +11,37 @@ ALL PLUGINS MARKED **SCP-X** ARE A STATUS EFFECT OF THE ACTUAL SCP
 | SCP-458 | 1.0.0      |    5% |
 
 ## INDIVIDUAL PLUGIN ENTRIES
-##### These plugins will follow the format of:
+### SCP-999-X
 ##### Name
 ##### Description
-##### Versioning[Stable : Beta]
+##### Version Releases:
+##### Stable: 
+##### Beta: 
 ##### Developer Notes
 
-### SCP-999-X
-
 ### Max-Stamina-Respawn
+##### Name
+##### Description
+##### Version Releases:
+##### Stable: 
+##### Beta: 
+##### Developer Notes
 
 ### SCP-2966-X
+##### Name
+##### Description
+##### Version Releases:
+##### Stable: 
+##### Beta: 
+##### Developer Notes
 
 ### SCP-458
+##### Name
+##### Description
+##### Version Releases:
+##### Stable: 
+##### Beta: 
+##### Developer Notes
 
 #### Concluding Notes
 As with many plugins that are mixed together from different developers and from which are all being used concurrently.
