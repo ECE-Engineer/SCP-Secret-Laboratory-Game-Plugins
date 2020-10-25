@@ -11,11 +11,11 @@ ALL PLUGINS MARKED **SCP-X** ARE A STATUS EFFECT OF THE ACTUAL SCP
 | SCP-458 | 1.0.0      |    5% |
 
 ## INDIVIDUAL PLUGIN ENTRIES
-These plugins will follow the format of:
-Name
-Description
-Versioning[Stable : Beta]
-Developer Notes
+##### These plugins will follow the format of:
+##### Name
+##### Description
+##### Versioning[Stable : Beta]
+##### Developer Notes
 
 ### SCP-999-X
 
