@@ -52,5 +52,5 @@ Author: Kyle Zeller
 Game Tag: CK
 
 --------
-If you are using sections code from this repository that are clearly written by me, please give proper credit!
+If you are using this plugin, the ideas behind this version of 999-x for your own plugin or are simply using sections of code from this repository that are clearly written by me, please give proper credit!
 Many Thanks!
