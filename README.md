@@ -50,3 +50,7 @@ Please be aware of the likelihood that special edge cases may occur causing inst
 Author: Kyle Zeller
 
 Game Tag: CK
+
+--------
+If you are using sections code from this repository that are clearly written by me, please give proper credit!
+Many Thanks!
