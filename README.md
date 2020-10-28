@@ -15,16 +15,16 @@ ALL PLUGINS MARKED **SCP-X** ARE A STATUS EFFECT OF THE ACTUAL SCP
 ##### Name: SCP999x
 ##### Description: SCP-999-X is a status effect that removes all negative status effects. It also has a healing effect on the effected player and nearby same-class players.
 
-A random human player gets the ability at the start of the round. The player gets a HUD message of "you have been chosen!". Then all passive actions of the SCP are active till the end of the round or until the player dies. Currently one player gets the ability per round.
+##### Version Releases: [1.3.1 Beta](https://github.com/ECE-Engineer/SCP-Secret-Laboratory-Game-Plugins/blob/main/SCP999x/DLLs/SCP999x.dll?raw=true)
+##### Stable: 
+##### Beta: 1.3.1
+##### Developer Notes: 
+
+A random human player gets the ability at the start of the round. The player gets a HUD message of "you have been chosen!" upon round start. Then all passive actions of the SCP are active till the end of the round or until the player dies. The player gets a HUD message of "ability 999x lost!" upon the termination conditions. Currently one player gets the ability per round. 
 
 Updates on the plugin include:
 - The player getting the benefits of the SCP-207 without the negative side effects
 - The player getting their life saved upon a death situation (only a one time use) w/ a slight buff afterwards to escape
-
-##### Version Releases:
-##### Stable: 
-##### Beta: 1.3.1
-##### Developer Notes:
 
 ### Max-Stamina-Respawn
 ##### Name:
